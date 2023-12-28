@@ -1,1 +1,11 @@
-/*  your css code here. If applicable */
+/*  your css code here. If appli*/
+*{
+	background-color: slateblue;
+}
+.btn{
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+	background-color: purple;
+	color: white;
+}
